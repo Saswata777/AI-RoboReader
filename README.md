@@ -46,8 +46,8 @@ This app allows you to **upload multiple PDFs** and ask **questions**. It proces
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ai-roboreader.git
-   cd ai-roboreader
+   git clone https://github.com/your-username/AI-RoboReader.git
+   cd AI-RoboReader
 
 2. **Create virtual environment & activate**
     ```bash
