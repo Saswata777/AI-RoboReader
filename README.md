@@ -15,6 +15,7 @@ This app allows you to **upload multiple PDFs** and ask **questions**. It proces
 ---
 
 ## 🛠️ Tech Stack  
+- **[Python](https://www.python.org/downloads/release/python-3125/)** → Python Version: 3.12.5
 - **[Streamlit](https://streamlit.io/)** → UI framework  
 - **[LangChain](https://www.langchain.com/)** → Document processing & conversational chain  
 - **[FAISS](https://faiss.ai/)** → Vector database for similarity search  
