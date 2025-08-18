@@ -93,7 +93,7 @@ def main():
         st.image("img/RoboLearn.png")
         st.write("---")
         
-        st.title("📁 PDF File's Section")
+        st.title("📁 PDF File's Section ")
         pdf_docs = st.file_uploader("Upload your PDF Files & \n Click on the Submit & Process Button ", accept_multiple_files=True)
         if st.button("Submit & Process"):
             with st.spinner("Processing..."): # user friendly message.
